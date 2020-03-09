@@ -16,4 +16,4 @@ Using the OpenWeatherMap API, this application creates random samples of global 
 2) Afterwards, create a terminal within the directory of the local repository, and enter the command ````$ jupyter notebook```` with a "y".
 3) When the new page loads, locate ````code/WeatherPy.ipynb```` and open it
 4) From here, you can run the blocks one-by-one by selecting the first block and clicking "Run" on top, for each cell, to see the process of analytics, or selecting "Cells" from the top bar and then "Run All" to see it execute all at once.
-5) To shutdown, select "Quit" on a Jupyter Webpage.
+5) To shutdown, select "Quit" on Jupyter directory webpage.
