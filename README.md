@@ -5,7 +5,7 @@ Using the OpenWeatherMap API, this application creates random samples of global 
 
 ## Getting Started
 ### Preparation
-1) On the (OpenWeatherMap)[https://openweathermap.org/] site, create an account. Once logged in, click on your username at the top of the page, then "API keys" to display your personal API key. We will be using this when running the application.
+1) On the [OpenWeatherMap](https://openweathermap.org/) site, create an account. Once logged in, click on your username at the top of the page, then "API keys" to display your personal API key. We will be using this when running the application.
 ### Installing
 1) Git clone the repository to your local machine:
     ````
